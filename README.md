@@ -5,5 +5,5 @@ Also, i recommend not dwonloading
 its mostly useless
 but take if you need it!
 
-ALSO. YOu can run explorer.exe form it.
+ALSO. You can run explorer.exe form it.
 ![screenshot](https://github.com/user-attachments/assets/9f3b8eab-ae79-4b40-986e-1356a7752d73)
